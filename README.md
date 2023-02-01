@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prerana-m-857650263) 
 
